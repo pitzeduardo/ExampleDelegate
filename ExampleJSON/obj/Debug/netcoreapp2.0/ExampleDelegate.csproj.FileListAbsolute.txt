@@ -1,0 +1,10 @@
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleDelegate.deps.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleDelegate.runtimeconfig.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleDelegate.runtimeconfig.dev.json
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleDelegate.dll
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleDelegate.pdb
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleDelegate.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleDelegate.AssemblyInfoInputs.cache
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleDelegate.AssemblyInfo.cs
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleDelegate.dll
+C:\Users\eduardo.pitz\Documents\GitHub\ExampleDelegate\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleDelegate.pdb
